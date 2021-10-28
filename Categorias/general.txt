@@ -1,0 +1,8 @@
+﻿¿Cuantas horas tiene el día?
+24
+¿Cuantos minutos tiene una hora?
+60﻿
+¿Cómo se llama la mascota de bob esponja?
+gary
+¿Qué planeta es el más cercano al Sol?
+Mercurio
